@@ -1,4 +1,3 @@
 <?php
 
-echo "Hi there";
-
+echo 'its working';
